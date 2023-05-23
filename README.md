@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **satyasaisanjanapaluri@gmail.com**
 
-- ⚡ Fun fact **I am passinoate about digital art🎨**
+- ⚡ Fun fact **I am passionate about digital art🎨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
