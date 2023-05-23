@@ -1,3 +1,4 @@
+![logo](https://github.com/sanjanapaluri/sanjanapaluri/blob/main/1665578614824.jpg)
 <h1 align="center">Hi 👋, I'm Sanjana Paluri</h1>
 <h3 align="center">A passionate Data Analyst developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
