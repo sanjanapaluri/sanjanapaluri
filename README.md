@@ -19,7 +19,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.powerbi.com/" target="_blank" rel="noreferrer"> <img
 src="https://camo.githubusercontent.com/19ca15f447e110cae52cdfee93e90f4cb42b5236947667628e81e91e86cd2e46/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f706f7765722d62692e737667" alt="powerbi" width="40"
-height="40"/> </a>                                                                                                                        </p>
+height="40"/> </a> <a href="https://www.jupyter.com/" target="_blank" rel="noreferrer"> <img                                              src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40"
+height="40"/> </a>                                                                    
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjanapaluri&show_icons=true&locale=en&layout=compact"  ></p>
 
