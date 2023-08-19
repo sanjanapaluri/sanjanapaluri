@@ -4,7 +4,11 @@
 <img align="right"alt="coding"width="400"src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanapaluri&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanapaluri" /> </p>
 
-- 🌱 I’m currently learning **Data Analystics**
+- 🔭 I’m currently learning **Data Analytics Project**
+
+- 🌱 I’m currently learning Advanced SQL , Python , Excel
+
+- 👯 I’m looking to collaborate on any end to end Data science project
 
 - 📫 How to reach me **satyasaisanjanapaluri@gmail.com**
 
