@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Advanced SQL , Python , Excel
 
-- 📄 My Resume [**Resume**] (https://drive.google.com/file/d/1v1n7MZUoHkVrTSnVTwyvXvrBSL1PsfeI/view?usp=drive_link)
+- 📄 My Resume [**Resume**](https://drive.google.com/file/d/1v1n7MZUoHkVrTSnVTwyvXvrBSL1PsfeI/view?usp=drive_link)
 
 - 📫 How to reach me **satyasaisanjanapaluri@gmail.com**
 
