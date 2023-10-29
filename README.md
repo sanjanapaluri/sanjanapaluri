@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Advanced SQL , Python , Excel
 
-- 👯 I’m looking to collaborate on any end to end Data science project
+- 📄 My Resume https://rb.gy/st3qb
 
 - 📫 How to reach me **satyasaisanjanapaluri@gmail.com**
 
