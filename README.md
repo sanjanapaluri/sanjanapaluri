@@ -28,6 +28,6 @@ height="40"/> </a> <a href="https://www.pandas.com/" target="_blank"  rel="noref
 height="40"/> </a>                                                                 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanapaluri&" alt="sanjanapaluri" /></p>
+
 
 
