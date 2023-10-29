@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **Data Analytics Project**
 
-- 🌱 I’m currently learning Advanced SQL , Python , Excel
+- 💬 Ask me about Excel, SQL, Power BI, Data Analysis
 
 - 📄 My Resume [**Resume**](https://drive.google.com/file/d/1v1n7MZUoHkVrTSnVTwyvXvrBSL1PsfeI/view?usp=drive_link)
 
