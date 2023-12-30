@@ -29,8 +29,8 @@ src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png" 
 height="40"/> </a> 
 <a href="https://www.jupyter.com/" target="_blank" rel="noreferrer"> <img                                              src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40"
 height="40"/> </a> <a href="https://www.pandas.com/" target="_blank"  rel="noreferrer"> <img                                             src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height = "40" /> </a> 
-<a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img                  src="https://camo.githubusercontent.com/0c5bc676ae2cd4a11eda58b0b6db9623cd45edb8474e9b080b1c8ebdb3370fd6/68747470733a2f2f696d672e69636f6e73382e636f6d2f696f732d676c797068732f3234302f3030303030302f6769746875622e706e67" alt="github" width="40"
-height="40"/> </a> 
+<a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img  
+src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Excel-Workbook.svg" alt="Excel" width="40" height="40"/> </a>                                                                                                  
 </p>
