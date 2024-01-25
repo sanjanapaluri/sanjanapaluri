@@ -10,6 +10,8 @@
 
 - 📄 My Resume [**Resume**](https://drive.google.com/file/d/1ziN2WqsCnOOnjKALT07FJsjjU9O7wLgq/view?usp=drive_link)
 
+- 🌐 My Portfolio [**Portolio**](https://sanjanapaluri.carrd.co/)
+
 - 📫 How to reach me **satyasaisanjanapaluri@gmail.com**
 
 - ⚡ Fun fact **I am passionate about digital art🎨**
