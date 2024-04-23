@@ -10,7 +10,7 @@
 
 - 📄 My Resume [**Resume**](https://drive.google.com/file/d/1cWl3pLUkXlCrrTVGnif3PIEXNFXhUEtk/view?usp=drive_link)
 
-- 🌐 My Portfolio [**Portolio**](https://sanjanapaluri.carrd.co/)
+- 🌐 My Portfolio [**Portolio**](https://sanjanaa.carrd.co/)
 
 - 📫 How to reach me **satyasaisanjanapaluri@gmail.com**
 
