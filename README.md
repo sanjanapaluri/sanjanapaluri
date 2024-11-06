@@ -8,7 +8,7 @@
 
 - 💬 Ask me about Excel, SQL, Power BI, Data Analysis
 
-- 📄 My Resume [**Resume**](https://drive.google.com/file/d/1FGZ6qjOmEFx4Lh5AgZm8kK3GJqUwJfAJ/view?usp=sharing)
+- 📄 My Resume [**Resume**](https://drive.google.com/file/d/1URjs41MpdOX6n0boR3X3AoohLPWmyHkj/view?usp=sharing)
 
 - 🌐 My Portfolio [**Portolio**](https://sanjanaa.carrd.co/)
 
