@@ -8,8 +8,7 @@
 
 - 💬 Ask me about Excel, SQL, Power BI, Data Analysis
 
-- 📄 My Resume [**Resume**](https://drive.google.com/file/d/1URjs41MpdOX6n0boR3X3AoohLPWmyHkj/view?usp=sharing)
-
+- 📄 My Resume [**Resume**](https://drive.google.com/file/d/13dfwCO9vb49B0x2GBPK7I7q7-mIiw7Pr/view?usp=drivesdk)
 - 🌐 My Portfolio [**Portolio**](https://sanjanaa.carrd.co/)
 
 - 📫 How to reach me **satyasaisanjanapaluri@gmail.com**
